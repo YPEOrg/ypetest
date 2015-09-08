@@ -1,2 +1,2 @@
-# ypetest
-ypetest
+# YPE用テストリポジトリ
+YPE用テストリポジトリ
